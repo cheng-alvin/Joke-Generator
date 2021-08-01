@@ -1,0 +1,59 @@
+.app {
+  text-align: center;
+}
+.Text {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.btn {
+  height: 40px;
+  border-radius: 3px;
+  width: 110px;
+  background-color: white;
+  border: 1px solid black;
+  padding-left: 0px;
+  align-self: center;
+  border-radius: 10px;
+  transition-duration: 0.25s;
+  padding: 8px;
+}
+.btn:hover {
+  background-color: black;
+  color: white;
+}
+.div1 {
+  display: flex;
+}
+strong {
+  color: black;
+  text-align: center;
+  margin-top: 100px;
+  font-size: 30px;
+  padding-left: 60px;
+}
+#btn3 {
+  text-align: center;
+  padding-top: 30px;
+}
+#btn4 {
+  text-align: center;
+  padding-top: 30px;
+}
+#text {
+  text-align: center;
+  padding-right: 60px;
+}
+p {
+  text-align: center;
+  padding-top: 0px;
+}
+#texts {
+  padding-top: 250px;
+}
+strong {
+  text-align: center;
+}
+#text1 {
+  padding-top: 0px;
+  padding-bottom: 20px;
+}
