@@ -17,3 +17,6 @@ App hosted on firebase made by google
 
 App link: https://regal-spark-302300.web.app/
 
+### Policy
+
+This app was programmed by Alvin Cheng all rights reserved.
