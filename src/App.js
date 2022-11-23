@@ -30,10 +30,32 @@ function App() {
           RESET
         </button>
       </div>
+      <div id="btn4">
+        <button className="btn" onClick={null}>
+          WORK IN PROGRESS
+        </button>
+      </div>
+      <div id="btn4">
+        <button className="btn" onClick={null}>
+          WORK IN PROGRESS
+        </button>
+      </div>
+      <div id="btn4">
+        <button className="btn" onClick={null}>
+          WORK IN PROGRESS
+        </button>
+      </div>
+      <div id="btn4">
+        <button className="btn" onClick={null}>
+          WORK IN PROGRESS
+        </button>
+      </div>
+      <div id="btn4">
+        <button className="btn" onClick={null}>
+          WORK IN PROGRESS
+        </button>
+      </div>
       <p>{joke}</p>
-      <p id="texts">
-        Thanks to everyone who respond to my morning jokes everyday!
-      </p>
       <p id="text1">
         for website improvements and bugs please report to Alvin cheng
       </p>
