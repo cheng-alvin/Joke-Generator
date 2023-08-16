@@ -24,37 +24,7 @@ function App() {
         <button className="btn" onClick={makejoke}>
           MAKE JOKE
         </button>
-      </div>
-      <div id="btn4">
-        <button className="btn" onClick={reset}>
-          RESET
-        </button>
-      </div>
-      <div id="btn4">
-        <button className="btn" onClick={null}>
-          WORK IN PROGRESS
-        </button>
-      </div>
-      <div id="btn4">
-        <button className="btn" onClick={null}>
-          WORK IN PROGRESS
-        </button>
-      </div>
-      <div id="btn4">
-        <button className="btn" onClick={null}>
-          WORK IN PROGRESS
-        </button>
-      </div>
-      <div id="btn4">
-        <button className="btn" onClick={null}>
-          WORK IN PROGRESS
-        </button>
-      </div>
-      <div id="btn4">
-        <button className="btn" onClick={null}>
-          WORK IN PROGRESS
-        </button>
-      </div>
+    </div>
       <p>{joke}</p>
       <p id="text1">
         for website improvements and bugs please report to Alvin cheng
