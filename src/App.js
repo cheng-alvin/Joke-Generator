@@ -7,9 +7,6 @@ function App() {
   const makejoke = () => {
     Axios.get("https://official-joke-api.appspot.com/jokes/random").then(
       (val) => {
-        console.log(val);
-        console.log(val.data.setup);
-        console.log(val.data.punchline);
         setJoke((joke = val.data.setup + " ... " + val.data.punchline));
       }
     );
@@ -26,9 +23,6 @@ function App() {
         </button>
     </div>
       <p>{joke}</p>
-      <p id="text1">
-        for website improvements and bugs please report to Alvin cheng
-      </p>
     </div>
   );
 }
